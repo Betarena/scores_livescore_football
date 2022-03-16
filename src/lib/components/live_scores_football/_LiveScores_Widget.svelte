@@ -248,9 +248,8 @@ async function widgetInit(): Promise < void > {
 $: refresh_data = $userBetarenaSettings.country_bookmaker;
 
 $: if (refresh_data) {
-	bookIcons = bookIcons;
+	bookIcons = bookIcons; 
 }
-
 
 
 </script>
