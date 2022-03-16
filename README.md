@@ -2,7 +2,7 @@
 
 ### Betarena Scores Platform -Live Score football match table
 
-![betarena-loading-2](https://user-images.githubusercontent.com/20924663/147516122-e1cff549-9e84-4a88-a910-1c866baa4fab.gif)
+![betarena-loading-2](https://raw.githubusercontent.com/Betarena/scores_livescore_football/feature/initial/anim.gif)
 
 ### Features
 
